@@ -1,7 +1,7 @@
 # Mystic Launcher 🌌
 
-Welcome to **Mystic Launcher**, your ultimate custom Minecraft Launcher! 🚀
-Built to seamlessly connect you (the launcher) and Mystic Network!
+Welcome to **Mystic Launcher**, your ultimate custom Minecraft Launcher! 🚀<br>
+Built to seamlessly connect you (<i>the launcher</i>) and Mystic Network!
 
 ## 🎮 Features
 
