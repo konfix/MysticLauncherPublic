@@ -1,5 +1,4 @@
-# Mystic Launcher 🌌
-
+# <a href=""><img src="https://i.imgur.com/Ty118l3.png" align="center" height="30%" width="30%" ></a><br>
 Welcome to **Mystic Launcher**, your ultimate custom Minecraft Launcher! 🚀<br>
 Built to seamlessly connect you (<i>the launcher</i>) and Mystic Network!
 
