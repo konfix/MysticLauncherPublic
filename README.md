@@ -18,8 +18,21 @@ join, simply hit the PLAY button and you will be ready to play in under a minute
 
 ## 🎮 Features
 
-- Installation for Windows, MacOS & Linux can be found in releases.
-- Other features included in the launcher are listed on our website.
+- Installation for Windows, MacOS & Linux can be found in releases;
+- Beautiful, modern and simple UI design, easily understandable even for newbies;
+- Supports Microsoft (premium) accounts and Offline (cracked) accounts;
+- Connect unlimited Microsoft and Offline accounts and easily switch between them;
+- Automatically connects to the server &ndash; save time by skipping extra steps you don't want;
+- Automatically downloads the required Java version, if you don't have it installed;
+- Integrated mods that optimize your game and offer new features (optional ones can be toggled);
+- Well-integrated with the server &ndash; automatic authorization included;
+- Supports multiple languages, English & Serbian are maintained natively, while others are community-made;
+- Change Minecraft launching (starting) options in the launcher;
+- Change Java options if needed, including the startup flags (advanced users only);
+- Control where your launcher/game data is stored in your files;
+- Automatically check for updates in launcher and get download links...
+
+And that is not everything, I just got tired of listing all the features! Download the launcher and see how amazing it is yourself.
 
 ## 📥 Installation
 
