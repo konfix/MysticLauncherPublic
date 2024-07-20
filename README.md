@@ -30,7 +30,10 @@ join, simply hit the PLAY button and you will be ready to play in under a minute
 
 ## 🛠️ Troubleshooting
 
-If you encounter any issues, please contact us by opening a [Discord ticket](https://mnmc.fun/discord).
+If you encounter any issues, please contact us by opening a [Discord ticket](https://mnmc.fun/discord). You can also submit a [Github Issue](https://github.com/konfix/MysticLauncherPublic/issues) to report
+your issues or suggest new features.
+
+Are you personally using any Fabric mods that we don't have in the launcher? Submit an issue and let us know &ndash; we can easily integrate it!
 
 ## 🙌 Acknowledgements
 
