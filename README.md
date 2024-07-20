@@ -2,6 +2,8 @@
 Welcome to **Mystic Launcher**, your ultimate custom Minecraft Launcher! 🚀<br>
 Built to seamlessly connect you (<i>the launcher</i>) and Mystic Network!
 
+This repository only contains pre-built versions of the launcher, in releases. The SRC is not public.
+
 ## 🎮 Features
 
 - All features included in the launcher are listed on our website.
