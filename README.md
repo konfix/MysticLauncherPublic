@@ -37,7 +37,7 @@ And that is not everything, I just got tired of listing all the features! Downlo
 ## 📥 Installation
 
 1. **Download Mystic Launcher** 📥: Grab the latest version for your OS from our [releases page](https://github.com/konfix/MysticLauncherPublic/releases).
-2. **Run the Installer** 🛠️: Follow the on-screen instructions to install Mystic Launcher.
+2. **Run the Installer** 🛠️: Follow the on-screen instructions to install Mystic Launcher. We're working to fix the 'unsafe app' notice, just ignore it (allow the app) for now. Sorry for inconvenience!
 3. **Launch Mystic Launcher** 🚀: Open the launcher and log in with your Minecraft account &ndash; We support both Microsoft and Offline accounts.
 4. **Customize Your Experience** 🎮: Change launcher language, configure settings if necessary, manage mods & more &ndash; everything in one app.
 
