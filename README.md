@@ -43,7 +43,7 @@ And that is not everything, I just got tired of listing all the features! Downlo
 
 ## 🛠️ Troubleshooting
 
-If you encounter any issues, please contact us by opening a [Discord ticket](https://mnmc.fun/discord). You can also submit a [Github Issue](https://github.com/konfix/MysticLauncherPublic/issues) to report
+If you encounter any issues, please contact us by opening a [Discord ticket](https://mnmc.eu/discord). You can also submit a [Github Issue](https://github.com/konfix/MysticLauncherPublic/issues) to report
 your issues or suggest new features.
 
 Are you personally using any Fabric mods that we don't have in the launcher? Submit an issue and let us know &ndash; we can easily integrate it!
